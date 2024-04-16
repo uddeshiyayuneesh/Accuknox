@@ -10,7 +10,7 @@ The Social Networking Application API is designed to facilitate social interacti
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/uddeshiyayuneesh/Accuknox.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -25,7 +25,7 @@ The Social Networking Application API is designed to facilitate social interacti
     docker-compose up
     ```
 5. Access the application at `http://localhost:8000`
-6. Postman Collection: [Social Networking API](https://www.postman.com/technical-engineer-61904315/workspace/accuknox/collection/33[…]0ea-7909-4d03-93ac-b4562546b95b?action=share&creator=33267109)
+
 
 ## API Documentation
 
