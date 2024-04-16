@@ -14,7 +14,7 @@ The Social Networking Application API is designed to facilitate social interacti
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Accuknox_Task
+    cd Accuknox
     ```
 3. Build the Docker image:
     ```bash
